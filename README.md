@@ -1,6 +1,6 @@
-# flutter_application_1
+# Camping Academy App
 
-A new Flutter project.
+An app for Tunisian Scouts.
 
 ## Getting Started
 
